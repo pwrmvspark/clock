@@ -2,4 +2,4 @@
 
 Simple clock app using React state and component lifecycle methods
 
-![](http://www.giphy.com/gifs/eJQgXAAI1wp42qDey8)
+![](https://media.giphy.com/media/eJQgXAAI1wp42qDey8/giphy.gif)
